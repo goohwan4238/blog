@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "VMS SOLUTIONS Blog",
-    description: "welcome to VMS SOLUTION Blog!",
+    description: "Welcome to VMS SOLUTION Blog!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
