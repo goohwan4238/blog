@@ -4,7 +4,7 @@ const CONFIG = {
     name: "VMS SOLUTIONS",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Product Development & Service",
-    bio: "I develop everything using node.",
+    bio: "Innovate to another level!",
     email: "support@vms-solutions.com",
     linkedin: "",
     github: "",
@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `vms-solution log`,
       href: "https://github.com/goohwan4238/blog",
     },
   ],
@@ -25,7 +25,7 @@ const CONFIG = {
 
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2000, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
