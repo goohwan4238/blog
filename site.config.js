@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: "VMS SOLUTIONS",
     image: "/mozartlogo.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Product Development & Service",
-    bio: "Innovate to another level!",
+    role: "Innovate to another level!",
+    bio: "",
     email: "support@vms-solutions.com",
     linkedin: "",
     github: "",
