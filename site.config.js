@@ -10,7 +10,12 @@ const CONFIG = {
     github: "",
     instagram: "",
   },
-
+  projects: [
+    {
+      name: `vms-solution log`,
+      href: "https://github.com/goohwan4238/blog",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "VMS SOLUTIONS Blog",
